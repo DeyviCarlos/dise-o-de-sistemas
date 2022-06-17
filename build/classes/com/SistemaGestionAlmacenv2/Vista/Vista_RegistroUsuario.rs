@@ -1,0 +1,2 @@
+com.SistemaGestionAlmacen.Vista.Vista_RegistroUsuario$1
+com.SistemaGestionAlmacen.Vista.Vista_RegistroUsuario

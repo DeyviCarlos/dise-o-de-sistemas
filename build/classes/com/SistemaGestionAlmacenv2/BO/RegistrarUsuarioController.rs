@@ -1,0 +1,3 @@
+com.SistemaGestionAlmacen.BO.RegistrarUsuarioController
+com.SistemaGestionAlmacen.BO.RegistrarUsuarioController$2
+com.SistemaGestionAlmacen.BO.RegistrarUsuarioController$1
